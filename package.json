@@ -1,0 +1,12 @@
+{
+  "name": "cron_jobs_with_nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/werickblog/cron_jobs_with_nodejs.git",
+  "author": "tesh254 <ewachira254@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3"
+  }
+}
